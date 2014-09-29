@@ -6,5 +6,7 @@
 [ComputeAreaWithConsoleInput](./ComputeAreaWithConsoleInput.java)
 ##2-3 计算面积
 [ComputeAverage](./ComputeAverage.java)
-##2-4 秒换算称分钟
+##2-4 秒换算成分钟
 [DisplayTime](./DisplayTime.java)
+##2-5 华氏温度转换成摄氏温度
+[FahrenheitToCelsius](./FahrenheitToCelsius.java)
