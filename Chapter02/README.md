@@ -10,3 +10,5 @@
 [DisplayTime](./DisplayTime.java)
 ##2-5 华氏温度转换成摄氏温度
 [FahrenheitToCelsius](./FahrenheitToCelsius.java)
+##2-6 显示当前时间
+[ShowCurrentTime](./ShowCurrentTime.java)
